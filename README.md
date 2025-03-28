@@ -4,5 +4,4 @@
 <br/><br/>  **Familiar IDE** <br/><br/> 
 <img alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge">
-<br/><br/>  **Social** <br/><br/> 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/seukaiwokeo?style=social"> <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fxaivaris">
+
